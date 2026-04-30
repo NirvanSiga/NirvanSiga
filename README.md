@@ -30,6 +30,7 @@ When I'm not working with data, I enjoy learning about geopolitics. I love the "
 ## 🌱 Currently Learning 
 
 - Agentic AI (OpenClaw)
+- Langchain LLM
 
 
 ## 🛠️ Technical Skillset
