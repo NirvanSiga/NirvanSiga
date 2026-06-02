@@ -13,11 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy learning about geopolitics. I love the "aha!" moment when data reveals something new and useful.
+MIS and Reporting Analyst with over 10 years of cross-functional experience spanning business operations, reporting, analytics, AI evaluation, and stakeholder support. Skilled in Excel, SQL, Power BI, Tableau, Power Automate, and Power Apps with experience developing dashboards, KPI reports, process documentation, and operational insights. Strong background in data validation, reporting accuracy, workflow improvement, and business reporting.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://NirvanSiga.github.io/)
@@ -30,7 +26,6 @@ When I'm not working with data, I enjoy learning about geopolitics. I love the "
 ## 🌱 Currently Learning 
 
 - Agentic AI (OpenClaw)
-- Langchain LLM
 
 
 ## 🛠️ Technical Skillset
